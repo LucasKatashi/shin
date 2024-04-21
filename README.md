@@ -1,8 +1,6 @@
 <p align="center">
 <h1 align="center"><b>Shin</b><br>Another web fuzzer</h1>
-
----
-
+    
 ### Summary
 
 Just another web fuzzer, but this time written in Rust.
