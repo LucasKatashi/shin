@@ -10,7 +10,7 @@ Just another web fuzzer, but this time written in Rust.
 - You need to have `cargo` installed: https://rustup.rs
 - Paste in terminal:
     ```sh
-    git clone https://github.com/LucasKatashi/shin && cd jito && cargo run
+    git clone https://github.com/LucasKatashi/shin && cd shin && cargo run && cd target/debug
     ```
 - The `shin` binary will be generated in `target/debug`
 
