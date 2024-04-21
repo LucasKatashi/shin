@@ -1,6 +1,5 @@
 <p align="center">
-<h1 align="center"><b>Shin</b></h1>
-<h2 align="center"><b>Another web fuzzer</b></h2>
+<h1 align="center"><b>Shin</b><br>Another web fuzzer</h1>
 
 ---
 
