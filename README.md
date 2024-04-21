@@ -12,7 +12,7 @@ Just another web fuzzer, but this time written in Rust.
     ```sh
     git clone https://github.com/LucasKatashi/shin && cd shin && cargo run && cd target/debug
     ```
-- The `shin` binary will be generated in `target/debug`
+- `./shin --help`
 
 ---
 
